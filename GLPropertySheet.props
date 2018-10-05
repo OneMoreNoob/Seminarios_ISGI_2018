@@ -5,6 +5,7 @@
   <PropertyGroup>
     <IncludePath>..\codebase\;$(IncludePath)</IncludePath>
     <LibraryPath>..\codebase\lib;$(VC_LibraryPath_x86);$(WindowsSDK_LibraryPath_x86);$(NETFXKitsDir)Lib\um\x86</LibraryPath>
+    <OutDir>$(ProjectDir)</OutDir>
   </PropertyGroup>
   <ItemDefinitionGroup />
   <ItemGroup />
