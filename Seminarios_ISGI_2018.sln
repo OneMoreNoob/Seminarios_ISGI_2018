@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloGL", "HelloGL\HelloGL.vcxproj", "{ED8F2D36-114A-4928-A3F6-6717B7AA586A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "prac2", "prac2\prac2.vcxproj", "{EDA861BA-4074-4C0B-A8BE-4FC3889CD974}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{ED8F2D36-114A-4928-A3F6-6717B7AA586A}.Release|x64.Build.0 = Release|x64
 		{ED8F2D36-114A-4928-A3F6-6717B7AA586A}.Release|x86.ActiveCfg = Release|Win32
 		{ED8F2D36-114A-4928-A3F6-6717B7AA586A}.Release|x86.Build.0 = Release|Win32
+		{EDA861BA-4074-4C0B-A8BE-4FC3889CD974}.Debug|x64.ActiveCfg = Debug|x64
+		{EDA861BA-4074-4C0B-A8BE-4FC3889CD974}.Debug|x64.Build.0 = Debug|x64
+		{EDA861BA-4074-4C0B-A8BE-4FC3889CD974}.Debug|x86.ActiveCfg = Debug|Win32
+		{EDA861BA-4074-4C0B-A8BE-4FC3889CD974}.Debug|x86.Build.0 = Debug|Win32
+		{EDA861BA-4074-4C0B-A8BE-4FC3889CD974}.Release|x64.ActiveCfg = Release|x64
+		{EDA861BA-4074-4C0B-A8BE-4FC3889CD974}.Release|x64.Build.0 = Release|x64
+		{EDA861BA-4074-4C0B-A8BE-4FC3889CD974}.Release|x86.ActiveCfg = Release|Win32
+		{EDA861BA-4074-4C0B-A8BE-4FC3889CD974}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -43,5 +43,4 @@ void main(int argc, char** argv)
 	cout << PROYECTO << " en marcha" << endl;
 
 	// Event loop
-	glutMainLoop();
-}
+	glutMainLoop();}
